@@ -13,7 +13,10 @@ function Cards(cards: cardsProps) {
       <div className="flex  flex-wrap">
         <h2 className="text-emerald-400 mb-5 text-xl">{cards.title}</h2>
         <p className="text-base text-gray-500  mr-2">{cards.description}</p>
-        <Link className="text-base mt-2 text-gray-300  mr-20" href="/trabajos">
+        <Link
+          className="text-base mt-2 text-gray-300  mr-20"
+          href="#cardsWorks"
+        >
           {cards.link}
         </Link>
       </div>
