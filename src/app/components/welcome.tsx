@@ -92,14 +92,14 @@ const welcome = () => {
         <div className=" flex w-52 h-10 items-center justify-center rounded bg-emerald-400 ">
           <h2 className="text-black m-0 ">Software Developer</h2>
         </div>
-        <div className="text-4xl mt-5 ">
+        <div className="text-4xl  mt-5 ">
           <h1>Talk is cheap.</h1>
         </div>
-        <div className="text-4xl mb-5 ">
+        <div className="text-4xl  mb-5 ">
           <h1>Show me the code.</h1>
         </div>
         <div>
-          <p className="text-base text-gray-500  mr-20">
+          <p className="text-base  text-gray-500  mr-20">
             Como desarrollador de software, mi enfoque es el desarrollo de
             código sostenible como eje central de mis soluciones.
           </p>

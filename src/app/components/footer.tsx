@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="  flex flex-col justify-center items-center ">
         <div className="grid grid-cols-1 gap-2 p-10">
           <div className="text-2xl mb-5 ">
-            <h2>Let´s make something amazing toghtether.</h2>
+            <h2>Let´s make something amazing together.</h2>
           </div>
           <div className="flex justify-center items-center mt-5">
             <ScrollTo>
