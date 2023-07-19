@@ -36,7 +36,7 @@ const Footer = () => {
           </div>
           <div>
             <p className="text-base text-gray-500  mb-2">
-              Rosario, Santa Fe, Argentina
+              Rosario, SantaFe, Argentina
             </p>
           </div>
           <div className="text-2xl mb-5 ">
